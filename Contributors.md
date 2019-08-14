@@ -7791,6 +7791,7 @@
 - [alekDevNinja](https://github.com/alekDevNinja)
 - [James Francis](https://github.com/greengory)
 - [Jimmy Xiao](https://github.com/Fatmylin)
+- [Titobi Eboda](https://github.com/t-williamss)
 - [Danny Lai](https://github.com/tocalai)
 - [Tu Szu Chi](https://github.com/Tu-Szu-Chi)
 - [Mark John C. Moreno](https://github.com/phakk)
